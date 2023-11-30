@@ -38,7 +38,7 @@ function App() {
   return (
     <div className="App">
       <span>{shopName}</span>
-      <table>
+      <table className="table">
         <thead>
         <tr>
           <th>Name</th>
